@@ -14,6 +14,9 @@ A modern, responsive web application for Istanbul Auto Repair Center. This proto
   - Local storage-based data persistence
 - **Responsive Design**: Fully optimized for desktop, tablet, and mobile devices
 - **Modern UI**: Built with React, TypeScript, Tailwind CSS, and smooth animations
+- **AI-Driven Analytics**: Features a custom-integrated local AI agent that automates the generation of daily job reports, transforming raw maintenance data into actionable business insights.
+
+
 
 ## Prerequisites
 
