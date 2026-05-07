@@ -15,6 +15,15 @@ A modern, responsive web application for Istanbul Auto Repair Center. This proto
 - **Responsive Design**: Fully optimized for desktop, tablet, and mobile devices
 - **Modern UI**: Built with React, TypeScript, Tailwind CSS, and smooth animations
 
+---
+## 🚀 Roadmap / Future Enhancements
+
+- [ ] **Privacy-Centric AI Integration:** Planning to integrate a local LLM engine (via Ollama) to automate daily job report generation. This will transform raw maintenance data into actionable business insights with zero latency and full data privacy.
+- [ ] **Database Migration (Scalability):** Transitioning data persistence layer to SQLite/PostgreSQL to handle concurrent user requests efficiently.
+- [ ] **Predictive Maintenance Module:** Developing a feature to estimate future vehicle issues based on historical repair data.
+
+---
+
 ## Prerequisites
 
 - **Node.js** 16+ 
