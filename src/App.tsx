@@ -7,6 +7,7 @@ import BookingForm from './components/BookingForm';
 import LocationContact from './components/LocationContact';
 import Footer from './components/Footer';
 import StickyWhatsApp from './components/StickyWhatsApp';
+import ChatWidget from './components/ChatWidget';
 import AdminPanel from './components/AdminPanel';
 import AdminLogin from './components/AdminLogin';
 
@@ -104,6 +105,7 @@ export default function App() {
       </main>
       <Footer />
       <StickyWhatsApp />
+      <ChatWidget />
     </div>
   );
 }
